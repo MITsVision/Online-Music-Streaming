@@ -1,0 +1,82 @@
+
+a.five:link{color: #ff0000; text-decoration:none}
+a.five:visited{color: #0000ff; text-decoration:none}
+a.five:hover{text-decoration: underline}
+
+h4
+{
+border:red solid thin;
+outline:green dashed thick
+}
+
+img.one
+{
+float:left;
+margin:0px 30px 0px 200px;
+}
+
+img.two
+{
+float:right;
+margin:0px 200px 0px 0px;
+}
+
+td.savan {
+  text-align:center;
+  color:white;
+  background-color:transparent;
+  font-size:17px;
+  font-weight:bold;
+  border-top: 1px solid #868686;
+  border-left: 1px solid black;
+  border-right: 1px solid #868686;
+  height:20px;
+  padding-bottom:2px;
+}
+
+th.left 
+{
+  font-size:22px;
+  color: #404040;
+  background-color:#22ff00;
+  padding-top: 1px;
+  padding-bottom: 2px;
+  border: 1px solid #c3c3c3;
+  border-bottom: none;
+}
+
+img.set
+{
+height:250px;
+width:265px;
+padding-bottom:4px;
+padding-top:2px;
+}
+
+td.aud {
+  text-align:left;
+  color:#CC1100;
+  background-color:transparent;
+  font-size:23px;
+  font-weight:bold;
+  height:20px;
+  padding-bottom:2px;
+}
+table.t
+{
+border: 5px grove navajowhite;
+padding:2px;
+padding-bottom:4px;
+padding-left:1px;
+padding-top:3px;
+background-image:URL(2.jpg);
+}
+td.aud1 {
+  text-align:left;
+  color:#CC11f0;
+  background-color:transparent;
+  font-size:23px;
+  font-weight:bold;
+  height:20px;
+  padding-bottom:2px;
+}
